@@ -23,7 +23,7 @@
 	text-align: center;
 }
 
-#all-pages-footer, .home-page-nav-link {
+#all-pages-footer, .contact-form-label, .home-page-nav-link {
 	font-family: "Arial", Helvetica, sans-serif;
 	font-size: 12px;
 }
@@ -34,6 +34,37 @@ body {
 
 #clear-just-above-main, #clear-just-below-first-para {
 	clear: both;
+}
+
+#contact-form-email-input, #contact-form-name-input, #contact-form-msg-input {
+	margin-bottom: 12px;
+	margin-top: 4px;
+}
+
+#contact-form-email-input, #contact-form-name-input {
+	width: 645px;
+}
+
+#contact-form-msg-input {
+	width: 643px;
+}
+
+#contact-me-heading {
+	color: teal;
+	opacity: 0.7;
+	margin-bottom: 14px;
+	padding-top: 20px;
+}
+
+#contact-page-article {
+	background-color: white;
+	height: 400px;
+	margin-bottom: 58px;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 20px;
+	padding-left: 16px;
+	padding-right: 16px;
 }
 
 #experience-bullets-header {
@@ -67,7 +98,7 @@ body {
 	max-width: 400px;
 }
 
-#home-page-main-content {
+#contact-page-main-content, #home-page-main-content {
 	background: lightgray;
 	height: 480px;
 	width: 882px;
@@ -124,4 +155,8 @@ body {
 
 #rule-just-below-about-me {
 	margin-bottom: 16px;
+}
+
+#rule-just-below-contact-me {
+	margin-bottom: 12px;
 }
