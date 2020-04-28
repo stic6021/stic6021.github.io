@@ -1,0 +1,127 @@
+
+#about-me-heading {
+	color: teal;
+	opacity: 0.7;
+	margin-bottom: 14px;
+	padding-top: 20px;
+}
+
+#about-me-image {
+	margin-right: 16px;
+	max-height: 300px;
+}
+
+#about-me-image, #home-page-name-block {
+	float: left;
+}
+
+#all-pages-footer {
+	background-color: #666666;
+	color: white;
+	margin-top: 5px;
+	padding-top: 10px;
+	text-align: center;
+}
+
+#all-pages-footer, .home-page-nav-link {
+	font-family: "Arial", Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+body {
+	width: 882px;
+}
+
+#clear-just-above-main, #clear-just-below-first-para {
+	clear: both;
+}
+
+#experience-bullets-header {
+	float: right;
+	margin-bottom: 0;
+	margin-right: 172px;
+	margin-top: 0;
+}
+
+#experience-bullets-list {
+	float: right;
+	margin-right: 282px;
+	margin-top: 8px;
+}
+
+#home-page-article {
+	background-color: white;
+	height: 400px;
+	margin-bottom: 54px;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 24px;
+	padding-left: 16px;
+	padding-right: 16px;
+}
+
+#home-page-article-first-para {
+	float: right;
+	margin-bottom: 12px;
+	margin-right: 12px;
+	max-width: 400px;
+}
+
+#home-page-main-content {
+	background: lightgray;
+	height: 480px;
+	width: 882px;
+}
+
+#home-page-name-block {
+	background-color: teal;
+	color: white;
+	font-size: 26px;
+	margin-bottom: 0;
+	margin-left: 100px;
+	padding-top: 16px;
+	padding-bottom: 16px;
+	text-align: center;
+	width: 196px;
+}
+
+#home-page-nav {
+	padding-top: 39px;
+}
+
+#home-page-about-link {
+	margin-left: 296px;
+}
+
+#home-page-footer-text {
+	padding-bottom: 3px;
+}
+
+#home-page-portfolio-link, #home-page-contact-link {
+	border-left: solid;
+	border-width: 1px;
+}
+
+.home-page-nav-link {
+	color: #aaa;
+	font-size: 12px;
+	padding-left: 12px;
+	padding-right: 12px;
+	text-decoration: none;
+}
+
+#rule-at-bottom-of-main {
+	background-color: teal;
+	border: none;
+	margin: 0;
+	height: 5px;
+}
+
+#rule-at-top-of-main {
+	margin: 0;
+	opacity: 0.67;
+}
+
+#rule-just-below-about-me {
+	margin-bottom: 16px;
+}
