@@ -174,7 +174,7 @@ body {
 
 #experience-bullets-header {
 	margin-bottom: 0;
-	margin-right: 236px;
+	margin-right: 234px;
 	margin-top: 6px;
 }
 
@@ -210,7 +210,7 @@ body {
 #home-page-article-first-para {
 	float: right;
 	margin-bottom: 12px;
-	margin-right: 26px;
+	margin-right: 54px;
 	margin-top: 10px;
 	max-width: 456px;
 }
@@ -235,7 +235,7 @@ body {
 }
 
 .portfolio-page-right-cell {
-	margin-left: 22px;
+	margin-left: 24px;
 }
 
 #portfolio-page-table {
@@ -244,6 +244,7 @@ body {
 
 .portfolio-page-table-cell {
 	flex: 1 1 auto;
+	vertical-align: middle;
 }
 
 #portfolio-page-table-row {
