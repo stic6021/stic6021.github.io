@@ -67,6 +67,10 @@
 	text-align: center;
 }
 
+#all-pages-footer, .main-content {
+	width: 960px;
+}
+
 #all-pages-footer-text {
 	padding-bottom: 3px;
 }
@@ -98,10 +102,6 @@ body {
 	display: flex;
 	flex-direction: column;
 	min-height: 99vh;
-}
-
-body, #contact-page-main-content, #home-page-main-content, #portfolio-page-main-content {
-	width: 960px;
 }
 
 #clear-just-above-main, #clear-just-below-first-para {
