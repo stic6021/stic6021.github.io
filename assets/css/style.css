@@ -10,7 +10,7 @@
 	margin-bottom: 14px;
 }
 
-#about-me-heading, #contact-me-heading {
+#about-me-heading, #contact-me-heading, #portfolio-page-heading {
 	padding-top: 20px;
 }
 
@@ -56,6 +56,7 @@
 
 #about-me-text-container {
 	float: right;
+	margin-top: 20px;
 	width: 480px;
 }
 
@@ -158,7 +159,7 @@ body {
 
 #estes-nightscapes-caption {
 	margin-left: 28px;
-	top: 45px;
+	top: 38px;
 	width: 236px;
 }
 
@@ -187,7 +188,12 @@ body {
 	font-size: 15px;
 }
 
+.experience-bullets-item {
+	list-style-type: circle;
+}
+
 #experience-bullets-list {
+	line-height: 1.25;
 	margin-right: 346px;
 	margin-top: 8px;
 }
@@ -197,8 +203,8 @@ body {
 }
 
 #flixster-caption {
-	bottom: 48px;
-	margin-left: 22px;
+	bottom: 38px;
+	margin-left: 24px;
 	width: 383px;
 }
 
@@ -219,10 +225,6 @@ body {
 	height: 460px;
 }
 
-#portfolio-page-heading {
-	padding-top: 16px;
-}
-
 .portfolio-page-left-cell {
 	margin-left: 28px;
 	margin-right: 22px;
@@ -239,7 +241,7 @@ body {
 }
 
 #portfolio-page-table {
-	margin-top: 16px;
+	margin-top: 24px;
 }
 
 .portfolio-page-table-cell {
@@ -271,14 +273,7 @@ body {
 	opacity: 0.67;
 }
 
-#rule-just-below-about-me {
-	margin-bottom: 16px;
-}
-
-#rule-just-below-contact-me {
-	margin-bottom: 12px;
-}
-
-#rule-just-below-portfolio-heading {
+#rule-just-below-about-me, #rule-just-below-contact-me, #rule-just-below-portfolio-heading {
+	margin-bottom: 24px;
 	opacity: 0.2;
 }
